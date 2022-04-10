@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.7b40a1e2.css",
+    "main.js": "/my-website/static/js/main.0479a39c.js",
+    "static/media/Taha-Bourichi.pdf": "/my-website/static/media/Taha-Bourichi.0463c7e612b00b5f737b.pdf",
+    "static/media/Profile-main.jpeg": "/my-website/static/media/Profile-main.1e195b08b74187d3cc97.jpeg",
+    "static/media/webpage.webp": "/my-website/static/media/webpage.56cc4e6671f49f34c905.webp",
+    "index.html": "/my-website/index.html",
+    "main.7b40a1e2.css.map": "/my-website/static/css/main.7b40a1e2.css.map",
+    "main.0479a39c.js.map": "/my-website/static/js/main.0479a39c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b40a1e2.css",
+    "static/js/main.0479a39c.js"
+  ]
+}
